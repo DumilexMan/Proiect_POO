@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647467723 source:f:\c++\proiect_poo\main.cpp
+	<iostream>
+	<cstring>
+
